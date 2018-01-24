@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    background-color: slategray;
+    width: 970px;
+    margin: 50px auto 0 auto;
+}
+
+#footer {
+    width: 970px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: beige;
+    padding-bottom: 10px;
+}
+
+#info {
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    margin-top: 1px;
+}
+
+#about h2 {
+    padding: 5px 0px 10px 10px;
+    background-color: gray;
+}
+
+#header h3 {
+    display: inline-block;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+
+
+#header {
+    background-color:grey;
+    padding: 10px;
+}
+
+#selfie {
+    height: 257.5px;
+    width: 45%;
+    display: inline-block;
+    margin: 15px 15px 15px 25px;
+    border: 4px solid gray;
+}
+
+#about {
+    display: inline-block;
+    width: 45%;
+    margin: 15px;
+    vertical-align: top;
+}
+
+#about p {
+    background-color: white;
+    padding: 10px;
+    display: block;
+}
+
+.block {
+    display: inline-block;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    background-color: white;
+    vertical-align: top;
+    width: 286px;
+}
+
+.titles {
+    background-color: grey;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+}
+
+.images {
+    width: 100%;
+}
+
+.titles-desc {
+    padding: 5px 5px 50px 5px;
+}
+
+.icons {
+    height: 35px;
+    width: 35px;
+    margin: 10px 3px 5px 15px;
+}
+
+.icons2 {
+    height: 20px;
+    width: 20px;
+    margin: 10px 3px 0px 15px;
+}
+
+.icons2-text {
+    display: inline-block;
+}
+
+#lamode {
+    margin-left: 37%;
+}
+
+#famcontacts {
+    margin-left: 30%;
+}
+
+#five11 {
+    margin-left: 37%;
+}
+
+.ending {
+    padding: 5px;
+    background-color: steelblue;
+    display: inline-block;
+    margin: 15px 0 20px 0px;
+    border-radius: 10px;
+    color: white;
+}
